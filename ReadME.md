@@ -102,3 +102,6 @@ Bahrain Polytechnic – ICT Student
 ## 📜 License
 
 This project is for educational purposes.
+
+---
+<img width="1470" height="956" alt="Screenshot 2026-03-19 at 6 54 29 PM" src="https://github.com/user-attachments/assets/3bf49443-2944-4b30-8748-5052dde19687" />
